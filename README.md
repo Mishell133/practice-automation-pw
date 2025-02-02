@@ -1,0 +1,1 @@
+## This is a demo project (sandbox) for learning Playwright features and possibilities
